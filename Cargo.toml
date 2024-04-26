@@ -1,8 +1,14 @@
 [package]
 name = "haroon"
 version = "0.1.0"
+authors = ["KAYT33N <K80arabi@gamil.com>"]
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Another TUI Desktop manager"
+readme = "README.md"
+repository = "https://github.com/KAYT33N/haroon"
+license = "GNU GPLv3"
+license-file = "LICENSE.txt"
+keywords = ["desktop-manager","desktop","pam","login","auth"]
+categories = ["authentication","os"]
 
 [dependencies]
